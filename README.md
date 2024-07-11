@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **wichanon.wic@gmail.com**
 
-- 📄 Know about my experiences [https://discordapp.com/channels/@me/1123009092613574758/1260845958351028225](https://discordapp.com/channels/@me/1123009092613574758/1260845958351028225)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/wichanon wichukornsak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="wichanon wichukornsak" height="30" width="40" /></a>
